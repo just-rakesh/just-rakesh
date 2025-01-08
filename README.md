@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Das</h1>
-<h3 align="center">Learner by Choice, Engineer by Chance.</h3>
+<h3 align="center">A Learner by Choice, Engineer by Chance.</h3>
 
 - 📫 reach me @ : **donerakesh001@gmail.com**
 
